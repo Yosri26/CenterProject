@@ -8,4 +8,4 @@ class Seance :
         self.hFin=hFin
     
 
-    def 
+    def uefjz()
